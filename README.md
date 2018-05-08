@@ -4,6 +4,7 @@
 The idea is to genererate Magic The Gathering cards with Deep Convolutional Generative Adversarial Network (and Tensorflow).
 For now the cards generated look like this:
 
+![](https://github.com/Laurans/Magic_Cards_generation/blob/master/assets/visu_generation_grid.jpeg)
 ## Installation
 ### With Docker
 #### Requirements
